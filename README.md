@@ -41,3 +41,5 @@ no-access: add the group Domain Admins and set Permissions to Read\Write
 <p>
 accounting: skip for now
 <p>
+An Example of setting group and permissions
+<p>
