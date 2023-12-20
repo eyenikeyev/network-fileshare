@@ -74,3 +74,7 @@ Go to C:\ Drive, add the accountants group and set its permissions to Read\Write
 <p>
 The user logged in the Client vm should not have access to the accounting folder since its not part of the group. Log off and remember the username that was used to log into the Client, its going to be set as part of the accountants group
 <p>
+In the Domain Controller vm go to the _security_group OU, right click on accountants to open Properties, go to the Members tab and add the user as a member of the Group.
+<p>
+<img src="https://i.imgur.com/MfOJgFH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
