@@ -1,4 +1,4 @@
-<p align="center">
+    <p align="center">
 <img src="https://github.com/ColtonTrauCC/network-fileshare/assets/147654000/efe94bff-a469-4342-a4c6-e927befd13b9" height = 20% width = 20%/>
 </p>
 
@@ -51,4 +51,8 @@ An Example of setting group and permissions
 
 <h3>Attempt to Access Fileshares</h3>
 
+<p>
+On the Client vm go to the shared folder through file explorer and type \\dc-1
+<p>
+Attempt to access the folders, the only one that is inaccessible by the permissions set is no-access
 <p>
