@@ -30,7 +30,7 @@ File sharing and permissions set up is a structure in order to organize resource
 </p>
   <ul>
 Connect to Remote Desktop with the Domain Controller and log in as mydomain.com\jane_admin. Do the same with the Client vm and log in as a random user that was generated through the Powershell script in the Active Directory lab.
-<p>
+</p>
 On Domain Controller vm, create 4 folders in the C:\ Drive and set the Permissions in these folders (by opening the folder's Properties and click on Share under the Sharing tab)
 <p>
 read-acess: add the group Domain Users and set Permissions to Read
