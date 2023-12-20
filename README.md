@@ -78,3 +78,5 @@ In the Domain Controller vm go to the _security_group OU, right click on account
 <p>
 <img src="https://i.imgur.com/MfOJgFH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+Log into the Client vm with the user that was made part of the accountants group, it should now have access to the accounting folder
+<p>
