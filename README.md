@@ -45,3 +45,10 @@ An Example of setting group and permissions
 <p>
 <img src="https://i.imgur.com/NgImT4S.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+</p>
+
+<br/>
+
+<h3>Attempt to Access Fileshares</h3>
+
+<p>
