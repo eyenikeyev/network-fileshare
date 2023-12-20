@@ -68,3 +68,7 @@ Access Domain Controller vm, go to Server Manager and go to Active Directory Use
 <p>
 <img src="https://i.imgur.com/RcrUU6l.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+Go to C:\ Drive, add the accountants group and set its permissions to Read\Write
+<p>
+<img src="https://i.imgur.com/5ALSXdu.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
