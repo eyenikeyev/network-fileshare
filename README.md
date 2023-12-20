@@ -64,5 +64,7 @@ Attempt to access the folders, the only one that is inaccessible by the permissi
 <h3>Create a Security Group</h3>
 
 <p>
-Access Domain Controller vm, go to Server Manager and go to Active Directory Users and Computers. Create a new Organizational Unit and name it _security_group
+Access Domain Controller vm, go to Server Manager and go to Active Directory Users and Computers. Create a new Organizational Unit and name it _security_group. Right click it and new group, name it accountants
+<p>
+<img src="https://i.imgur.com/RcrUU6l.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
