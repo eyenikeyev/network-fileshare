@@ -80,3 +80,4 @@ In the Domain Controller vm go to the _security_group OU, right click on account
 <p>
 Log into the Client vm with the user that was made part of the accountants group, it should now have access to the accounting folder
 <p>
+This is the conclusion of the lab
