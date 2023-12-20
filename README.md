@@ -43,5 +43,5 @@ accounting: skip for now
 <p>
 An Example of setting group and permissions
 <p>
-<img src="https://i.imgur.com/NgImT4S.png" height="40%" width="%40" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NgImT4S.png" height="30%" width="%30" alt="Disk Sanitization Steps"/>
 <p>
