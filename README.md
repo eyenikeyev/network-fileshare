@@ -1,4 +1,4 @@
-    <p align="center">
+<p align="center">
 <img src="https://github.com/ColtonTrauCC/network-fileshare/assets/147654000/efe94bff-a469-4342-a4c6-e927befd13b9" height = 20% width = 20%/>
 </p>
 
