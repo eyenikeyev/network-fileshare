@@ -64,3 +64,5 @@ Attempt to access the folders, the only one that is inaccessible by the permissi
 <h3>Create a Security Group</h3>
 
 <p>
+Access Domain Controller vm, go to Server Manager and go to Active Directory Users and Computers. Create a new Organizational Unit and name it _security_group
+<p>
