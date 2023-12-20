@@ -25,7 +25,7 @@ File sharing and permissions set up is a structure in order to organize resource
 
 <h2>Steps</h2>
 
-<h3>Creating Sample Fileshares with Various Permissions</h3>
+<h3>Creating Sample Fileshares with Permissions</h3>
 
 <p>
   <ul>
