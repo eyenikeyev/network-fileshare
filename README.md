@@ -57,4 +57,10 @@ On the Client vm go to the shared folder through file explorer and type \\dc-1
 Attempt to access the folders, the only one that is inaccessible by the permissions set is no-access
 <p>
 <img src="https://i.imgur.com/Y3Y4tJN.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br/>
+
+<h3>Create a Security Group</h3>
+
 <p>
