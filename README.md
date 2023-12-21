@@ -36,13 +36,13 @@ On Domain Controller vm, create 4 folders in the C:\ Drive and set the Permissio
 <b>read-access</b>: add the group Domain Users and set Permissions to Read
 </li>
 <p>
-<b></b>write-access</b>: add the group Domain Users and set Permissions to Read/Write
+<b>write-access</b>: add the group Domain Users and set Permissions to Read/Write
 </li>
 <p>
-<b></b>no-access</b>: add the group Domain Admins and set Permissions to Read\Write
+<b>no-access</b>: add the group Domain Admins and set Permissions to Read\Write
 </li>
 <p>
-accounting: skip for now
+<b>accounting</b>: skip for now
 </li>
 <p>
 An Example of setting group and permissions
