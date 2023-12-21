@@ -33,13 +33,17 @@ Connect to Remote Desktop with the Domain Controller and log in as mydomain.com\
 On Domain Controller vm, create 4 folders in the C:\ Drive and set the Permissions in these folders (by opening the folder's Properties and click on Share under the Sharing tab)
 <p>
 
-read-access: add the group Domain Users and set Permissions to Read
+<b>read-access</b>: add the group Domain Users and set Permissions to Read
+</li>
 <p>
-write-access: add the group Domain Users and set Permissions to Read/Write
+<b></b>write-access</b>: add the group Domain Users and set Permissions to Read/Write
+</li>
 <p>
-no-access: add the group Domain Admins and set Permissions to Read\Write
+<b></b>no-access</b>: add the group Domain Admins and set Permissions to Read\Write
+</li>
 <p>
 accounting: skip for now
+</li>
 <p>
 An Example of setting group and permissions
 <p>
