@@ -25,7 +25,7 @@ File sharing and permissions set up is a structure in order to organize resource
 
 <h2>Steps</h2>
 
-<h3>Create Sample Fileshares with Permissions</h3>
+<h3>Creating Sample Fileshares with Permissions</h3>
 
 </p>
 Connect to Remote Desktop with the Domain Controller and log in as mydomain.com\jane_admin. Do the same with the Client vm and log in as a random user that was generated through the Powershell script in the Active Directory lab.
@@ -53,7 +53,7 @@ An Example of setting group and permissions
 
 <br/>
 
-<h3>Attempt to Access Fileshares</h3>
+<h3>Attempting to Access Fileshares</h3>
 
 <p>
 On the Client vm go to the shared folder through file explorer and type \\dc-1
@@ -65,7 +65,7 @@ Attempt to access the folders, the only one that is inaccessible by the permissi
 
 <br/>
 
-<h3>Create a Security Group</h3>
+<h3>Creating a Security Group</h3>
 
 <p>
 Access Domain Controller vm, go to Server Manager and go to Active Directory Users and Computers. Create a new Organizational Unit and name it _security_group. Right click it and new group, name it accountants
